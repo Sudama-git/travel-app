@@ -2,6 +2,10 @@
 
 WANDER is a responsive React travel discovery application that helps users explore popular destinations, search for places, check real-time weather, use their current location, and save a favorite destination.
 
+## Live Demo
+
+https://travel-app-lime-phi.vercel.app/
+
 ## Features
 
 - 🔍 Search destinations by name, country, or continent
